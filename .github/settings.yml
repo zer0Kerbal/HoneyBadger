@@ -14,7 +14,7 @@ repository:
   #description: "Rover parts seeking to fill a kerbal's need for thrill and adventure by way of exploration with little to no safety guidelines"
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/209686-*/
 
   # A comma-separated list of topics to set on the repository
   topics: honeybadger,badger,rover,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk
