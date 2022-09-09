@@ -95,7 +95,7 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 * [V2Industries Ltd (V2IL)][V2IL]
 * On of: (for mesh and resource switching. may invoke bouts of dizziness.)
-  * [Firespitter][fscore]
+  * [Firespitter][fs]
   * [Firespitter Core][fscore]
   * [IFS][ifs]
   * [IFS Core][ifsc]
@@ -168,7 +168,7 @@ parts, agency, flags, config
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/HoneyBadger/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/HoneyBadger/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/HoneyBadger/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207911-*/ "HoneyBadger Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209686-*/ "HoneyBadger Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/HoneyBadger/wiki/Known-Issues "GitHub Issues"
 [MOD:markt]: https://zer0kerbal.github.io/HoneyBadger/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/HoneyBadger/Notices "Notices"
@@ -215,9 +215,9 @@ parts, agency, flags, config
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
-[PUMA]:  ""
-[HBAD]:  "" HoneyBadger
-[V2IL]:  "V2 Industries Ltd"
+[PUMA]: https://forum.kerbalspaceprogram.com/index.php?/topic/209686-*/  "Puma"
+[HBAD]: https://forum.kerbalspaceprogram.com/index.php?/topic/209686-*/ "HoneyBadger"
+[V2IL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209686-*/  "V2 Industries Ltd"
 
 [fs]: https://github.com/snjo/Firespitter "Firespitter"
 [fscore]: https://github.com/snjo/Firespitter "Firespitter Core"
