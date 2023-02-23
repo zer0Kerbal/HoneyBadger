@@ -25,11 +25,11 @@ This add-on adds two (2) rover parts
 
 * HoneyBadger Cockpit
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HoneyBadger/master/GameData/HoneyBadger/Parts/%40thumbs/hbad-cockpit_icon.png" alt="HoneyBadger Cockpit" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HoneyBadger/master/docs/thumbs/hbad-cockpit_icon.png" alt="HoneyBadger Cockpit" width="25%" height="25%" />
 
 * HoneyBadger Tank
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/HoneyBadger/master/GameData/HoneyBadger/Parts/%40thumbs/hbad-tank_icon.png" alt="HoneyBadger Tank" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/HoneyBadger/master/docs/thumbs/hbad-tank_icon.png" alt="HoneyBadger Tank" width="25%" height="25%" />
 
 ---
 
